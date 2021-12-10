@@ -21,8 +21,8 @@
       {
         "id": "2",
         "imagen": "https://cursokotlin.com/wp-content/uploads/2017/07/daredevil.jpg",
-        "nombre": "Ginkgo",
-        "nombrecientifico": "Ginkgo biloba L",
+        "nombre": "especie2",
+        "nombrecientifico": "especie2",
         "origen": "China y Japón, introducido",
         "altura": "40 m",
         "tipo": "Caducifolio",
